@@ -14,4 +14,4 @@ This project models a localized industrial power distribution microgrid. It show
 
 ## Technical Project Artifacts
 * **Wokwi Microgrid Circuit Simulator:** [https://wokwi.com/projects/475944125439683585]
-* **Google Colab Control Logic Engine:** [https://colab.research.google.com/drive/1szUUU7FOn6-40OLsSRysVgBG48l0Ymu3?usp=sharing]
+* **Google Colab Control Logic Engine:** [https://colab.research.google.com/drive/1kcMNQHS0DypNDUv9YUw6tdWSyF7OoObQ?usp=sharing]
